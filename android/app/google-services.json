@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938590761918",
+    "project_id": "anianimelist-25819",
+    "storage_bucket": "anianimelist-25819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938590761918:android:1b14371a3755fa6b627fef",
+        "android_client_info": {
+          "package_name": "com.awesome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIlFS0MTrXtTsKVaO6s5hTOWW-3dyOn0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
